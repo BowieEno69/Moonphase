@@ -2,7 +2,7 @@ let moons = [];
 let frames = 0;
 
 function setup() {
-  createCanvas(250,440)
+  createCanvas(500,880)
 
   frameRate(14);
 
